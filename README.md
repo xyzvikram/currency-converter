@@ -32,5 +32,3 @@ HTML | CSS | JavaScript (Fetch API)
 
 ## 🌐 Live Demo
 [View on GitHub Pages](https://xyzvikram.github.io/currency-converter)
-
----
